@@ -2,6 +2,13 @@
 Showcase my workflow and adaptability.
 - Consulted ChatGPT
 
+Prior experience with technologies:
+- React: Know of / None
+- Styled Components: None
+- NodeJS: 2yr
+- TypeScript: 2yr
+- AWS: 4yr
+
 ## How to navigate this project
 Guide the reviewer to important parts of the application.
 
