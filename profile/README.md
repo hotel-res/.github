@@ -4,10 +4,11 @@ Showcase my workflow and adaptability.
 
 Prior experience with technologies:
 - React: Know of / None
-- Styled Components: None
+- MUI: None
 - NodeJS: 2yr
 - TypeScript: 2yr
 - AWS: 4yr
+- GraphQL: None
 
 ## How to navigate this project
 Guide the reviewer to important parts of the application.
