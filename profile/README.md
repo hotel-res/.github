@@ -1,5 +1,5 @@
 ## How I worked on this project
-_Showcase my workflow and adaptability._
+*Showcase my workflow and adaptability.*
 - Consulted LLMs (ChatGPT-4, Bard, etc..)
 - Experimented with React front end
 - Experimented with Python back end
@@ -15,10 +15,10 @@ Prior experience with technologies:
 - Python: Novice
 
 ## How to navigate this project
-_Guide the reviewer to important parts of the application._
+*Guide the reviewer to important parts of the application.*
 
 ## Why I built the project this way
-_Offer insight into my thought process and technical decisions._
+*Offer insight into my thought process and technical decisions.*
 - Consulted LLMs
   - Minimize blockers to progress.
   - Wanted to familiarize myself with ChatGPT
@@ -27,4 +27,4 @@ _Offer insight into my thought process and technical decisions._
 - Experiment with Python and NodeJS as back end languages
 
 ## If I had more time I would change this
-_Demonstrate self-reflection and teamwork potential._
+*Demonstrate self-reflection and teamwork potential.*
