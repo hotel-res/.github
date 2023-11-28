@@ -1,6 +1,6 @@
 ## How I worked on this project
 Showcase my workflow and adaptability.
-- Consulted ChatGPT
+- Consulted LLMs (ChatGPT-4, Bard, etc..)
 - Experimented with React front end
 - Experimented with Python back end
 - Compared with NodeJS back end
