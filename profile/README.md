@@ -1,5 +1,5 @@
 ## How I worked on this project
-Showcase my workflow and adaptability.
+_Showcase my workflow and adaptability._
 - Consulted LLMs (ChatGPT-4, Bard, etc..)
 - Experimented with React front end
 - Experimented with Python back end
@@ -10,16 +10,16 @@ Prior experience with technologies:
 - MUI: None
 - NodeJS: 2yr
 - TypeScript: 2yr
-- AWS: 3yr
+- AWS: 4yr
 - GraphQL: None
-- Python: Small Scripts
+- Python: Novice
 
 ## How to navigate this project
-Guide the reviewer to important parts of the application.
+_Guide the reviewer to important parts of the application._
 
 ## Why I built the project this way
-Offer insight into my thought process and technical decisions.
-- Consulted ChatGPT
+_Offer insight into my thought process and technical decisions._
+- Consulted LLMs
   - Minimize blockers to progress.
   - Wanted to familiarize myself with ChatGPT
 - Referenced StackOverflow Developer Survey 2023
@@ -27,4 +27,4 @@ Offer insight into my thought process and technical decisions.
 - Experiment with Python and NodeJS as back end languages
 
 ## If I had more time I would change this
-Demonstrate self-reflection and teamwork potential.
+_Demonstrate self-reflection and teamwork potential._
